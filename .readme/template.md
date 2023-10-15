@@ -18,11 +18,12 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 ## How to use?
 
-Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
+Simply insert one of the links below into [any of iptv player for android]([https://iptv2live.com/iptv-players/)) that supports live streaming and press _Open_.
 
 ![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
 ## Playlists
+use [m3u checker](https://iptv2live.com/m3u-checker-your-all-in-one-solution) to cheeck any m3u link
 
 There are several versions of playlists that differ in the way they are grouped.
 
@@ -39,7 +40,8 @@ And here is the full version:
 ```
 https://iptv-org.github.io/iptv/index.nsfw.m3u
 ```
-
+### get free iptv
+Get [free iptv codes](https://iptv2live.com) 
 ### Grouped by category
 
 <details>
